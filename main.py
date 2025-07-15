@@ -9,6 +9,11 @@ import os
 
 app = FastAPI(title="Inspection Certificate Generator", version="1.0.0")
 
+# ✅ Root route to prevent 404 on "/"
+@app.get("/")
+def root():
+    return {"message": "Inspection Certificate Generator is live 🚀"}
+
 class InspectionCertificateData(BaseModel):
     exporter: Optional[str] = ""
     consignee: Optional[str] = ""

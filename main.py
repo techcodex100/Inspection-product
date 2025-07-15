@@ -44,9 +44,9 @@ def generate_certificate(data: InspectionCertificateData):
                 c.drawString(100, 800, f"⚠️ Missing background: {filename}")
 
         def draw_value(value, x, y):
-            c.setFont("Helvetica", 16)  # Increased font size
+            c.setFont("Helvetica", 12)  # Increased font size
             for i, line in enumerate(value.splitlines()):
-                c.drawString(x, y - i * 18, line)  # Adjusted line spacing
+                c.drawString(x, y - i * 14, line)  # Adjusted line spacing
 
         # === Page 1 ===
         draw_image("1.jpg")

@@ -40,13 +40,13 @@ def generate_certificate(data: InspectionCertificateData):
             if os.path.exists(path):
                 c.drawImage(ImageReader(path), 0, 0, width=width, height=height)
             else:
-                c.setFont("Helvetica-Bold", 10)
+                c.setFont("Helvetica-Bold", 12)
                 c.drawString(100, 800, f"⚠️ Missing background: {filename}")
 
         def draw_value(value, x, y):
-            c.setFont("Helvetica", 9.2)
+            c.setFont("Helvetica", 16)  # Increased font size
             for i, line in enumerate(value.splitlines()):
-                c.drawString(x, y - i * 10, line)
+                c.drawString(x, y - i * 18, line)  # Adjusted line spacing
 
         # === Page 1 ===
         draw_image("1.jpg")

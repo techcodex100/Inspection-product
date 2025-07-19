@@ -1,0 +1,51 @@
+exporter,consignee,description_of_goods,total_carton,proforma_invoice_no,proforma_invoice_date,order,order_date,delivery_terms,documentary_credit_no,date_of_issue,mobileno
+ABC Exports Ltd.,Global Imports Inc.,Electrical components and accessories,50,PI-2024-001,2024-06-15,ORD-9876,2024-06-01,FOB Mumbai,LC-998877,2024-06-20,9876543210
+XYZ Traders Pvt. Ltd.,Bright Logistics Co.,Handmade leather shoes,100,PI-2024-002,2024-06-18,ORD-9877,2024-06-05,CIF New York,LC-998878,2024-06-22,8765432109
+MNO Textiles Ltd.,Fashion World Ltd.,Cotton t-shirts,200,PI-2024-003,2024-06-20,ORD-9878,2024-06-07,FOB Chennai,LC-998879,2024-06-25,7654321098
+QRS Pharma Pvt. Ltd.,HealthCare Inc.,Medical syringes and tubes,80,PI-2024-004,2024-06-22,ORD-9879,2024-06-08,CIF London,LC-998880,2024-06-26,6543210987
+Fresh Agro Exporters,Green Basket Ltd.,Organic vegetables,150,PI-2024-005,2024-06-23,ORD-9880,2024-06-09,FOB Kochi,LC-998881,2024-06-27,5432109876
+TechnoGear India Pvt. Ltd.,Electro Mart Ltd.,Mechanical gear components,120,PI-2024-006,2024-06-24,ORD-9881,2024-06-10,CIF Dubai,LC-998882,2024-06-28,4321098765
+NeoFurn Exports,Interior Designs Co.,Wooden furniture set,60,PI-2024-007,2024-06-25,ORD-9882,2024-06-11,FOB JNPT,LC-998883,2024-06-29,3210987654
+Global Toys Ltd.,ToyLand Inc.,Plastic educational toys,180,PI-2024-008,2024-06-26,ORD-9883,2024-06-12,CIF Singapore,LC-998884,2024-06-30,2109876543
+SteelRite Industries,BuildRight Pvt. Ltd.,Steel construction bars,90,PI-2024-009,2024-06-27,ORD-9884,2024-06-13,FOB Vizag,LC-998885,2024-07-01,1098765432
+Cosmo Chemicals,Zenith Pharma Co.,Industrial chemicals (non-toxic),110,PI-2024-010,2024-06-28,ORD-9885,2024-06-14,CIF Hamburg,LC-998886,2024-07-02,9988776655
+ABC Exports Ltd.,Global Imports Inc.,Electrical components and accessories,50,PI-2024-001,2024-06-15,ORD-9876,2024-06-01,FOB Mumbai,LC-998877,2024-06-20,9876543210
+XYZ Traders Pvt. Ltd.,Bright Logistics Co.,Handmade leather shoes,100,PI-2024-002,2024-06-18,ORD-9877,2024-06-05,CIF New York,LC-998878,2024-06-22,8765432109
+MNO Textiles Ltd.,Fashion World Ltd.,Cotton t-shirts,200,PI-2024-003,2024-06-20,ORD-9878,2024-06-07,FOB Chennai,LC-998879,2024-06-25,7654321098
+QRS Pharma Pvt. Ltd.,HealthCare Inc.,Medical syringes and tubes,80,PI-2024-004,2024-06-22,ORD-9879,2024-06-08,CIF London,LC-998880,2024-06-26,6543210987
+Fresh Agro Exporters,Green Basket Ltd.,Organic vegetables,150,PI-2024-005,2024-06-23,ORD-9880,2024-06-09,FOB Kochi,LC-998881,2024-06-27,5432109876
+TechnoGear India Pvt. Ltd.,Electro Mart Ltd.,Mechanical gear components,120,PI-2024-006,2024-06-24,ORD-9881,2024-06-10,CIF Dubai,LC-998882,2024-06-28,4321098765
+NeoFurn Exports,Interior Designs Co.,Wooden furniture set,60,PI-2024-007,2024-06-25,ORD-9882,2024-06-11,FOB JNPT,LC-998883,2024-06-29,3210987654
+Global Toys Ltd.,ToyLand Inc.,Plastic educational toys,180,PI-2024-008,2024-06-26,ORD-9883,2024-06-12,CIF Singapore,LC-998884,2024-06-30,2109876543
+SteelRite Industries,BuildRight Pvt. Ltd.,Steel construction bars,90,PI-2024-009,2024-06-27,ORD-9884,2024-06-13,FOB Vizag,LC-998885,2024-07-01,1098765432
+Cosmo Chemicals,Zenith Pharma Co.,Industrial chemicals (non-toxic),110,PI-2024-010,2024-06-28,ORD-9885,2024-06-14,CIF Hamburg,LC-998886,2024-07-02,9988776655
+ABC Exports Ltd.,Global Imports Inc.,Electrical components and accessories,50,PI-2024-001,2024-06-15,ORD-9876,2024-06-01,FOB Mumbai,LC-998877,2024-06-20,9876543210
+XYZ Traders Pvt. Ltd.,Bright Logistics Co.,Handmade leather shoes,100,PI-2024-002,2024-06-18,ORD-9877,2024-06-05,CIF New York,LC-998878,2024-06-22,8765432109
+MNO Textiles Ltd.,Fashion World Ltd.,Cotton t-shirts,200,PI-2024-003,2024-06-20,ORD-9878,2024-06-07,FOB Chennai,LC-998879,2024-06-25,7654321098
+QRS Pharma Pvt. Ltd.,HealthCare Inc.,Medical syringes and tubes,80,PI-2024-004,2024-06-22,ORD-9879,2024-06-08,CIF London,LC-998880,2024-06-26,6543210987
+Fresh Agro Exporters,Green Basket Ltd.,Organic vegetables,150,PI-2024-005,2024-06-23,ORD-9880,2024-06-09,FOB Kochi,LC-998881,2024-06-27,5432109876
+TechnoGear India Pvt. Ltd.,Electro Mart Ltd.,Mechanical gear components,120,PI-2024-006,2024-06-24,ORD-9881,2024-06-10,CIF Dubai,LC-998882,2024-06-28,4321098765
+NeoFurn Exports,Interior Designs Co.,Wooden furniture set,60,PI-2024-007,2024-06-25,ORD-9882,2024-06-11,FOB JNPT,LC-998883,2024-06-29,3210987654
+Global Toys Ltd.,ToyLand Inc.,Plastic educational toys,180,PI-2024-008,2024-06-26,ORD-9883,2024-06-12,CIF Singapore,LC-998884,2024-06-30,2109876543
+SteelRite Industries,BuildRight Pvt. Ltd.,Steel construction bars,90,PI-2024-009,2024-06-27,ORD-9884,2024-06-13,FOB Vizag,LC-998885,2024-07-01,1098765432
+Cosmo Chemicals,Zenith Pharma Co.,Industrial chemicals (non-toxic),110,PI-2024-010,2024-06-28,ORD-9885,2024-06-14,CIF Hamburg,LC-998886,2024-07-02,9988776655
+ABC Exports Ltd.,Global Imports Inc.,Electrical components and accessories,50,PI-2024-001,2024-06-15,ORD-9876,2024-06-01,FOB Mumbai,LC-998877,2024-06-20,9876543210
+XYZ Traders Pvt. Ltd.,Bright Logistics Co.,Handmade leather shoes,100,PI-2024-002,2024-06-18,ORD-9877,2024-06-05,CIF New York,LC-998878,2024-06-22,8765432109
+MNO Textiles Ltd.,Fashion World Ltd.,Cotton t-shirts,200,PI-2024-003,2024-06-20,ORD-9878,2024-06-07,FOB Chennai,LC-998879,2024-06-25,7654321098
+QRS Pharma Pvt. Ltd.,HealthCare Inc.,Medical syringes and tubes,80,PI-2024-004,2024-06-22,ORD-9879,2024-06-08,CIF London,LC-998880,2024-06-26,6543210987
+Fresh Agro Exporters,Green Basket Ltd.,Organic vegetables,150,PI-2024-005,2024-06-23,ORD-9880,2024-06-09,FOB Kochi,LC-998881,2024-06-27,5432109876
+TechnoGear India Pvt. Ltd.,Electro Mart Ltd.,Mechanical gear components,120,PI-2024-006,2024-06-24,ORD-9881,2024-06-10,CIF Dubai,LC-998882,2024-06-28,4321098765
+NeoFurn Exports,Interior Designs Co.,Wooden furniture set,60,PI-2024-007,2024-06-25,ORD-9882,2024-06-11,FOB JNPT,LC-998883,2024-06-29,3210987654
+Global Toys Ltd.,ToyLand Inc.,Plastic educational toys,180,PI-2024-008,2024-06-26,ORD-9883,2024-06-12,CIF Singapore,LC-998884,2024-06-30,2109876543
+SteelRite Industries,BuildRight Pvt. Ltd.,Steel construction bars,90,PI-2024-009,2024-06-27,ORD-9884,2024-06-13,FOB Vizag,LC-998885,2024-07-01,1098765432
+Cosmo Chemicals,Zenith Pharma Co.,Industrial chemicals (non-toxic),110,PI-2024-010,2024-06-28,ORD-9885,2024-06-14,CIF Hamburg,LC-998886,2024-07-02,9988776655
+ABC Exports Ltd.,Global Imports Inc.,Electrical components and accessories,50,PI-2024-001,2024-06-15,ORD-9876,2024-06-01,FOB Mumbai,LC-998877,2024-06-20,9876543210
+XYZ Traders Pvt. Ltd.,Bright Logistics Co.,Handmade leather shoes,100,PI-2024-002,2024-06-18,ORD-9877,2024-06-05,CIF New York,LC-998878,2024-06-22,8765432109
+MNO Textiles Ltd.,Fashion World Ltd.,Cotton t-shirts,200,PI-2024-003,2024-06-20,ORD-9878,2024-06-07,FOB Chennai,LC-998879,2024-06-25,7654321098
+QRS Pharma Pvt. Ltd.,HealthCare Inc.,Medical syringes and tubes,80,PI-2024-004,2024-06-22,ORD-9879,2024-06-08,CIF London,LC-998880,2024-06-26,6543210987
+Fresh Agro Exporters,Green Basket Ltd.,Organic vegetables,150,PI-2024-005,2024-06-23,ORD-9880,2024-06-09,FOB Kochi,LC-998881,2024-06-27,5432109876
+TechnoGear India Pvt. Ltd.,Electro Mart Ltd.,Mechanical gear components,120,PI-2024-006,2024-06-24,ORD-9881,2024-06-10,CIF Dubai,LC-998882,2024-06-28,4321098765
+NeoFurn Exports,Interior Designs Co.,Wooden furniture set,60,PI-2024-007,2024-06-25,ORD-9882,2024-06-11,FOB JNPT,LC-998883,2024-06-29,3210987654
+Global Toys Ltd.,ToyLand Inc.,Plastic educational toys,180,PI-2024-008,2024-06-26,ORD-9883,2024-06-12,CIF Singapore,LC-998884,2024-06-30,2109876543
+SteelRite Industries,BuildRight Pvt. Ltd.,Steel construction bars,90,PI-2024-009,2024-06-27,ORD-9884,2024-06-13,FOB Vizag,LC-998885,2024-07-01,1098765432
+Cosmo Chemicals,Zenith Pharma Co.,Industrial chemicals (non-toxic),110,PI-2024-010,2024-06-28,ORD-9885,2024-06-14,CIF Hamburg,LC-998886,2024-07-02,9988776655
